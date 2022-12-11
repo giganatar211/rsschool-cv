@@ -17,7 +17,7 @@ begin
 end.
 ```
 ## Experience:
-Full zero
+Zero experience in programming
 ## Education:
 * BNTU 
     + Еeacher-engineer in the field of woodworking
