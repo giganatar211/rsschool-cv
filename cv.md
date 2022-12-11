@@ -1,4 +1,4 @@
-# Kurochkin Dmitriy
+#   Kurochkin Dmitriy
 ## Contacts:
 * phone: +375 33 384 05 01;
 * e-mail: giganatar211@gmail.com;
